@@ -1,0 +1,14 @@
+    {
+        "name": "rogerioalbino/mvc",
+        "description": "Este pacote foi criado apenas para complementar o post no Tableless",
+        "authors": [ 
+            {
+                "name": "Rogerio Albino",
+                "email": "rogerioalbino@outlook.com"
+            }
+        ],
+        "require": {
+             "php": ">=5.6",
+             "rogerioalbino/mvc": "*"
+        }
+     }
